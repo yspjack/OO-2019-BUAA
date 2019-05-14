@@ -36,3 +36,17 @@ How to run:
 ```bash
 python checkstyle.py --jar checkstyle-8.12-all.jar --config config.xml oo_2019_homework
 ```
+
+## Data generator
+
+### Homework 10
+
+#### Requirements
+
+numpy
+
+#### Usage
+
+```bash
+python gen_10.py > in.txt
+```
