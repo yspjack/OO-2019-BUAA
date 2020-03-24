@@ -1,6 +1,14 @@
 # OO-2019-BUAA
 
-BUAA Object Oriented homework
+本仓库**不包含**OO作业代码。
+
+根据相关规定，OO作业代码**不允许**公布。
+
+BUAA Object Oriented homework tools
+
+## LICENSE
+
+MIT License
 
 ## Tools
 
